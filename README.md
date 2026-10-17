@@ -1,16 +1,23 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/phballoni-ai/portfolio/main/assets/portrait.webp" alt="Pedro Henrique Balloni" width="120" align="right">
 
-<!--
-**phballoni-ai/phballoni-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pedro Henrique Balloni
 
-Here are some ideas to get you started:
+I work at the intersection of B2B growth, commercial strategy and applied AI.  
+I build the systems behind go-to-market execution: account intelligence, outbound workflows and decision models.  
+Based near Turin, Italy · Working remotely with international teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://pedroballoni.com) · [LinkedIn](https://www.linkedin.com/in/pedro-balloni/)
+
+## Selected decision models
+
+Four offline-first Python prototypes covering a commercial decision cycle:
+
+| Decision | Project |
+| --- | --- |
+| Where to compete | [Market Position & Whitespace Map](https://github.com/phballoni-ai/market-position-whitespace-map) |
+| Which accounts to pursue | [Account Intelligence Agent](https://github.com/phballoni-ai/account-intelligence-agent) |
+| How to allocate sales capacity | [GTM Investment & Capacity Planner](https://github.com/phballoni-ai/gtm-investment-capacity-planner) |
+| Which deals need review | [Deal Desk: Margin & Approval Analytics](https://github.com/phballoni-ai/deal-desk-revenue-leakage) |
+
+These are portfolio prototypes using fictional data—not deployed products or claims of proven customer outcomes.
+
